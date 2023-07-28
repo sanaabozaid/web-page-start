@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(pics/programming-background-collage.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 70px;
+    color:white;
+}
+.one{
+    width:250px;
+    height:300px;
+    background: url(pics/5418501_2806922.jpg);
+    background-size: cover;
+    float:left;
+    margin: 5%  0 5% 20%;
+    border: 5px #2CAEE2 solid ;
+    border-radius: 25px;
+    text-align: center;
+}
+.two{
+    background-image: url(pics/1132763_OQCI430.jpg);
+    width:250px;
+    height:300px;
+    float: left;
+    margin: 5% 3%;
+    border: 5px #2CAEE2 solid ;
+    border-radius: 25px;
+    text-align: center;
+    background-size: cover;
+
+}
+.three{
+
+    width:250px;
+    height:300px;
+    background: url(pics/12065051_4878060.jpg);
+    float: left;
+    margin: 5% 11% 5% 0;
+    border: 5px #2CAEE2 solid ;
+    border-radius: 25px;
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+h2{
+    color:white;
+    margin-top: 50px;
+    font-size: 30px;
+}
+p{
+    font-weight: bolder;
+    color:white;
+    margin-top: 30px;
+    font-size: 20px;
+}
+a{
+    color:white;
+    display: block;
+    margin-top: 30px;
+    font-size: 17px;
+}
+button{
+    color:white;
+    border:double 2px royalblue;
+    border-radius: 9px;
+    border: 0;
+    background-color:  royalblue;
+    width: 170px;
+    height: 35px;
+    font-size:15px;
+    font-weight: bolder;
+    margin: auto;
+}
+.up{
+    margin-top:-14px;
+}
+.down{
+    margin-top:60px;
+}
